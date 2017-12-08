@@ -1,1 +1,1 @@
-This is just a placeholder for project description
+This project will be built on PHP stack
